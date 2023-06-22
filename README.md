@@ -19,3 +19,8 @@
 ## Week 4
 - Fix GUI asterisk bug where when viewing patient into, the asterisk (\*) shows up. Now the asterisk only shows up when adding a new patient.
 - Learning QT framework as well as imgui integration into QT framework. Getting ready for GUI development
+
+## Week 5
+- Fix 4 bugs (NEUR 153, 152, 151, 157)
+- Add "noise test" functionality to service module
+- 
