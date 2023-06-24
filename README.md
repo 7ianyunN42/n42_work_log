@@ -21,6 +21,6 @@
 - Learning QT framework as well as imgui integration into QT framework. Getting ready for GUI development
 
 ## Week 5
-- Fix 4 bugs (NEUR 153, 152, 151, 157)
+- Fix 7 bugs (NEUR 153, 152, 151, 157, 130, 159, 160)
 - Add "noise test" functionality to service module
-- 
+- Create a temperature monitor class that automatically terminates any ongoing scans when the thermalmeter's reading exceeds limit.
