@@ -25,7 +25,7 @@
 - Add "noise test" functionality to service module
 - Create a temperature monitor class that automatically terminates any ongoing scans when the thermalmeter's reading exceeds limit.
 
-### Week 6
+## Week 6
 - Fix bug(NEUR 154)
 - Rebuilt wheel for UI message box pop-up that allows for future-proof notification
 - Complete temperature monitor module that sends count-down notifications to users on overheat
