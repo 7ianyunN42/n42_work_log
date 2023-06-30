@@ -24,3 +24,12 @@
 - Fix 7 bugs (NEUR 153, 152, 151, 157, 130, 159, 160)
 - Add "noise test" functionality to service module
 - Create a temperature monitor class that automatically terminates any ongoing scans when the thermalmeter's reading exceeds limit.
+
+### Week 6
+- Fix bug(NEUR 154)
+- Rebuilt wheel for UI message box pop-up that allows for future-proof notification
+- Complete temperature monitor module that sends count-down notifications to users on overheat
+- Feature: atlas logger now communicates with the main process properly, which warns the user on log failure
+- Feature: Service manual now contains a "desktop" button that grants service engineer desktop access
+- Feature: all system and media shortcuts are now automatically removed on program start, meaning users can't ctrl+alt out of the program(unless in service mode)
+- Help with documentation(drafting UML diagram) 
