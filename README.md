@@ -33,3 +33,9 @@
 - Feature: Service manual now contains a "desktop" button that grants service engineer desktop access
 - Feature: all system and media shortcuts are now automatically removed on program start, meaning users can't ctrl+alt out of the program(unless in service mode)
 - Help with documentation(drafting UML diagram) 
+
+## Week 7
+- Fix Progress bar(progressbar actually progresses during scan)
+- Implement PLC's logic to constantly listen for temperature inputs(disabling PLC when temperature overheats)
+- Build 0.0.6 version of Neuro42 custom ISO with new libraries and custom environments.
+- Writing documentation for wireless internet adapter for the FDA approval
