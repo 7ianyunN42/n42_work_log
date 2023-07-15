@@ -39,3 +39,10 @@
 - Implement PLC's logic to constantly listen for temperature inputs(disabling PLC when temperature overheats)
 - Build 0.0.6 version of Neuro42 custom ISO with new libraries and custom environments.
 - Writing documentation for wireless internet adapter for the FDA approval
+
+## Week 8
+- Fix bugs NEUR-194
+- Create tool for automatic versioning of resources onto google cloud services; integrated tool into jenkins
+- Feature: display user manual and release notes on about software page
+- Feature: disable tab switches during scanning
+- Integrate software GUI as a system service, software now starts along with the system and creates an illusion that the GUI is the entirety of the system.
