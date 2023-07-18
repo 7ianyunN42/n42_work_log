@@ -46,3 +46,7 @@
 - Feature: display user manual and release notes on about software page
 - Feature: disable tab switches during scanning
 - Integrate software GUI as a system service, software now starts along with the system and creates an illusion that the GUI is the entirety of the system.
+
+## Week 9
+- Stress testing the software and fixing bugs coming out of it
+- Documenting product versioning
