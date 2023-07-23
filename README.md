@@ -50,3 +50,5 @@
 ## Week 9
 - Stress testing the software and fixing bugs coming out of it
 - Documenting product versioning
+- Documenting code manual
+- Fix one important bug
